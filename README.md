@@ -13,6 +13,7 @@ $ cd Tamagotchi
 To run:
 
 $ make
+
 $ ./Tom
 
 
